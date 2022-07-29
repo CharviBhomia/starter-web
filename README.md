@@ -3,6 +3,7 @@
 ##Introduction
 
 This repository is for showing how Git and GitHub work
+Adding a line
 
 ## Purpose
 
@@ -15,4 +16,4 @@ Sample website with plenty of files for demos
 ###COPYRIGHT
 
 Please fork this repository
-
+ 
