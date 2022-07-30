@@ -3,7 +3,7 @@
 ##Introduction
 
 This repository is for showing how Git and GitHub work
-Adding a line
+Adding a line updating emerge
 changes from my feature branch
 
 ## Purpose
