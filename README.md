@@ -17,4 +17,4 @@ Sample website with plenty of files for demos
 ###COPYRIGHT
 
 Please fork this repository
- 
+ 2014 git training
