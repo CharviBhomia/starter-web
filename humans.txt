@@ -9,6 +9,11 @@
 
     <name>Charvi
     All my students
+<<<<<<< HEAD
+=======
+    hii
+    hello
+>>>>>>> newchanges
 
 # TECHNOLOGY COLOPHON
 
